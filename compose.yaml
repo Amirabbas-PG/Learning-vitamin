@@ -1,0 +1,26 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Containerfile
+    env_file:
+      - env.ini
+    ports: 
+    - 8080:80 
+    stdin_open: true
+    tty: true
+    volumes:
+    - ./public_html:/var/www/html:Z 
+    # restart: always
+    
+    depends_on:
+      - db
+  db:
+    image: ghcr.io/cwm360/mariadb:10.5
+    env_file:
+      - ./env.ini
+
+    volumes:
+    - ./data:/docker-entrypoint-initdb.d:Z
+    restart: always
+  

@@ -1,0 +1,675 @@
+Jul 18 2024 06:19:08
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:08
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:09
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:09
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:19:09
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:19:09
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:19:09
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:19:10
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:19:10
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:19:12
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:12
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:19:12
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:19:16
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:16
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:19:16
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:19:19
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:20
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:19:20
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:19:23
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:26
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:19:26
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:19:26
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:29
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:32
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:19:32
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:19:33
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:37
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:39
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:19:39
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:19:40
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:43
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:47
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:49
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:19:49
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:19:50
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:54
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:57
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:19:58
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:19:58
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:20:01
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:04
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:07
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:08
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:20:08
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:20:11
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:14
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:17
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:20
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:20:20
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:20:22
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:25
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:29
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:32
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:32
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:20:32
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:20:35
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:38
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:42
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:45
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:46
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:20:46
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:20:48
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:52
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:55
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:20:58
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:00
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:21:00
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:21:01
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:05
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:08
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:12
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:15
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:21:15
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:21:15
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:19
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:22
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:25
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:28
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:31
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:31
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:21:31
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:21:34
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:38
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:41
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:44
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:47
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:50
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:21:50
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:21:52
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:55
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:21:58
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:02
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:06
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:09
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:22:09
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:22:09
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:12
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:16
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:19
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:22
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:26
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:28
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:22:28
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:22:29
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:33
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:37
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:42
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:46
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:49
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:22:49
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:22:49
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:53
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:22:57
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:01
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:05
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:09
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:10
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:23:10
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:23:13
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:17
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:21
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:25
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:30
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:33
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:33
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:23:33
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:23:37
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:42
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:46
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:50
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:54
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:23:57
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:23:57
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:23:57
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:00
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:03
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:08
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:11
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:15
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:19
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:21
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:24:21
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:24:23
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:27
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:30
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:33
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:37
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:41
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:44
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:48
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:24:48
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:24:48
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:51
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:54
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:24:58
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:01
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:05
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:09
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:13
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:15
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:25:15
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:25:16
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:20
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:24
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:27
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:31
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:34
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:38
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:41
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:44
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:25:44
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:25:45
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:49
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:52
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:25:56
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:00
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:03
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:06
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:09
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:12
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:12
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:26:12
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:26:16
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:20
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:23
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:26
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:29
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:33
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:36
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:39
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:42
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:26:42
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:26:42
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:46
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:49
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:53
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:26:57
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:01
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:04
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:08
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:11
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:13
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:27:13
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:27:14
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:19
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:22
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:26
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:30
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:34
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:38
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:41
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:44
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:27:44
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:27:44
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:48
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:51
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:55
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:27:58
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:28:01
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:28:04
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:28:08
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:28:11
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+
+Jul 18 2024 06:28:16
+{"Number":2,"Message":"filesize(): stat failed for \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/storage\/m1ooxfapsuun\/astra-demo.wpress","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/functions.php","Line":342}
+
+Jul 18 2024 06:28:16
+{"type":1,"message":"Uncaught DivisionByZeroError: Division by zero in \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php:79\nStack trace:\n#0 \/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/controller\/class-ai1wm-import-controller.php(73): Ai1wm_Import_Validate::execute(Array)\n#1 \/var\/www\/html\/wp-includes\/class-wp-hook.php(324): Ai1wm_Import_Controller::import(Array)\n#2 \/var\/www\/html\/wp-includes\/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)\n#3 \/var\/www\/html\/wp-includes\/plugin.php(517): WP_Hook->do_action(Array)\n#4 \/var\/www\/html\/wp-admin\/admin-ajax.php(192): do_action('wp_ajax_ai1wm_i...')\n#5 {main}\n  thrown","file":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/model\/import\/class-ai1wm-import-validate.php","line":79}
+
+Jul 18 2024 06:28:16
+{"type":8192,"message":"Creation of dynamic property ftp::$features is deprecated","file":"\/var\/www\/html\/wp-admin\/includes\/class-ftp.php","line":151}
+

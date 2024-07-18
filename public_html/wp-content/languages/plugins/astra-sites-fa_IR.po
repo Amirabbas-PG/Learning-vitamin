@@ -1,0 +1,535 @@
+# Translation of Plugins - Starter Templates — Elementor, WordPress &amp; Beaver Builder Templates - Stable (latest release) in Persian
+# This file is distributed under the same license as the Plugins - Starter Templates — Elementor, WordPress &amp; Beaver Builder Templates - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-08 15:57:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Starter Templates — Elementor, WordPress &amp; Beaver Builder Templates - Stable (latest release)\n"
+
+#: inc/classes/class-astra-sites-wp-cli.php:331
+msgid "Invalid XML URL."
+msgstr "آدرس اینترنتی XML نامعتبر است."
+
+#: inc/classes/class-astra-sites-wp-cli.php:518
+msgid ""
+"Invalid parameter! \n"
+"Please use `list` or `set` parameter."
+msgstr ""
+"پارامتر نامعتبر است!\n"
+"لطفا از پارامتر `list` یا `set` استفاده کنید."
+
+#: inc/classes/class-astra-sites-wp-cli.php:515
+msgid ""
+"Invalid page builder slug. \n"
+"Check all page builder slugs with command `wp astra-sites page_builder list`"
+msgstr ""
+"نامک صفحه‌ساز نامعتبر است.\n"
+"نامک‌های همه‌ی صفحه‌سازها را با دستور `wp astra-sites page_builder list` بررسی کنید"
+
+#. translators: %s is the page builder name.
+#: inc/classes/class-astra-sites-wp-cli.php:512
+msgid "\"%s\" is set as default page builder."
+msgstr "\"%s\" به‌عنوان صفحه‌ساز پیش‌فرض تنظیم شده است."
+
+#. translators: %s is the current page builder name.
+#: inc/classes/class-astra-sites-wp-cli.php:504
+msgid "Default page builder is \"%s\"."
+msgstr "صفحه‌ساز پیش‌فرض \"%s\" می‌باشد."
+
+#: inc/classes/class-astra-sites-wp-cli.php:487
+msgid "Please add valid parameter."
+msgstr "لطفا یک پارامتر معتبر اضافه کنید."
+
+#: inc/classes/class-astra-sites-wp-cli.php:437
+msgid "Importing customizer settings.."
+msgstr "درحال درون‌ریزی تنظیمات سفارشی‌ساز.."
+
+#: inc/classes/class-astra-sites-wp-cli.php:393
+msgid "Resting WP Forms..."
+msgstr "درحال بازنشانی فرم‌های وردپرس..."
+
+#: inc/classes/class-astra-sites-wp-cli.php:386
+msgid "Reseting Terms.."
+msgstr "درحال بازنشانی قوانین.."
+
+#: inc/classes/class-astra-sites-wp-cli.php:379
+msgid "Reseting Posts.."
+msgstr "درحال بازنشانی نوشته‌ها.."
+
+#: inc/classes/class-astra-sites-wp-cli.php:371
+msgid "Are you sure you want to delete imported site data?"
+msgstr "آیا مطمئن هستید که می‌خواهید داده‌های سایت درون‌ریزی شده را حذف کنید؟"
+
+#. translators: %s is error message.
+#: inc/classes/class-astra-sites-wp-cli.php:344
+msgid "WXR file Download Failed. Error %s"
+msgstr "دانلود فایل WXR انجام نشد. خطا: %s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:340
+msgid "Importing WXR.."
+msgstr "درحال درون‌ریزی WXR..."
+
+#. translators: %s is the XML file URL.
+#: inc/classes/class-astra-sites-wp-cli.php:336
+msgid "Downloading %s"
+msgstr "درحال دانلود %s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:226
+msgid "Activating Plugins.."
+msgstr "درحال فعال‌سازی افزونه‌ها.."
+
+#: inc/classes/class-astra-sites-wp-cli.php:211
+msgid "Installing Plugins.."
+msgstr "درحال نصب افزونه‌ها.."
+
+#. translators: %s is the activate plugin license link.
+#: inc/classes/class-astra-sites-wp-cli.php:193
+msgid "Use CLI command `wp brainstormforce license activate astra-pro-sites {YOUR_LICENSE_KEY}`"
+msgstr "Use CLI command `wp brainstormforce license activate astra-pro-sites {YOUR_LICENSE_KEY}`"
+
+#: inc/classes/class-astra-sites-wp-cli.php:189
+msgid "Use `wp plugin deactivate astra-sites` and then `wp plugin activate astra-pro-sites`"
+msgstr "از `wp plugin deactivate astra-sites` و سپس از `wp plugin activate astra-pro-sites` استفاده کنید."
+
+#. Translators: %s is the error message.
+#: inc/classes/class-astra-sites-wp-cli.php:176
+msgid "Site Import failed due to error: %s"
+msgstr "درون‌ریزی انجام نشد!! گزارش خطاها را ببینید: %s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:166
+#: inc/classes/class-astra-sites-wp-cli.php:432
+msgid "Invalid Site ID,"
+msgstr "شناسه سایت نامعتبر است،"
+
+#: inc/classes/class-astra-sites-wp-cli.php:160
+msgid "Are you sure you want to import the site?"
+msgstr "آیا مطمئن هستید که می‌خواهید این سایت را درون‌ریزی کنید؟"
+
+#: inc/classes/class-astra-sites-wp-cli.php:124
+msgid "No sites found! Try another query."
+msgstr "هیچ سایتی یافت نشد، یک جستجوی دیگر انجام دهید."
+
+#: inc/lib/astra-notices/class-astra-notices.php:119
+msgid "WordPress Nonce not validated."
+msgstr "WordPress Nonce not validated."
+
+#: inc/classes/class-astra-sites-importer.php:91
+#: inc/classes/class-astra-sites-importer.php:135
+#: inc/classes/class-astra-sites-importer.php:174
+#: inc/classes/class-astra-sites-importer.php:317
+#: inc/classes/class-astra-sites-importer.php:422
+#: inc/classes/class-astra-sites-page.php:190
+#: inc/classes/class-astra-sites.php:219 inc/classes/class-astra-sites.php:588
+#: inc/classes/class-astra-sites.php:1002
+#: inc/classes/class-astra-sites.php:1097
+#: inc/classes/class-astra-sites.php:1128
+#: inc/classes/class-astra-sites.php:1328
+#: inc/importers/batch-processing/class-astra-sites-batch-processing.php:886
+#: inc/importers/batch-processing/class-astra-sites-batch-processing.php:904
+#: inc/lib/ai-builder/inc/ajax/importer.php:139
+#: inc/lib/ai-builder/inc/ajax/importer.php:195
+#: inc/lib/ai-builder/inc/ajax/importer.php:218
+#: inc/lib/ai-builder/inc/ajax/importer.php:357
+#: inc/lib/ai-builder/inc/ajax/importer.php:409
+#: inc/lib/ai-builder/inc/ajax/importer.php:441
+#: inc/lib/ai-builder/inc/ajax/plugin.php:120
+#: inc/lib/ai-builder/inc/ajax/plugin.php:313
+#: inc/lib/ai-builder/inc/ajax/plugin.php:342
+#: inc/lib/ai-builder/inc/ajax/plugin.php:347
+#: inc/lib/ai-builder/inc/traits/helper.php:571
+#: inc/lib/ai-builder/inc/traits/helper.php:615
+#: inc/lib/ai-builder/inc/traits/helper.php:655
+#: inc/lib/ai-builder/inc/traits/helper.php:688
+#: inc/lib/ai-builder/inc/traits/helper.php:720
+#: inc/lib/ai-builder/inc/traits/helper.php:754
+#: inc/lib/ai-builder/inc/traits/helper.php:790
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:244
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:292
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:336
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:360
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:450
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:792
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:318
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:445
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:470
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:513
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:804
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:839
+#: inc/lib/gutenberg-templates/inc/importer/template-kit-importer.php:43
+#: inc/lib/gutenberg-templates/inc/importer/template-kit-importer.php:109
+#: inc/lib/gutenberg-templates/inc/traits/upgrade.php:33
+#: inc/lib/onboarding/classes/class-astra-sites-onboarding-setup.php:78
+#: inc/lib/zipwp-images/classes/zipwp-images-api.php:263
+msgid "You are not allowed to perform this action"
+msgstr "شما مجاز به انجام این عملیات نیستید"
+
+#: inc/includes/templates.php:472
+msgid "This starter site requires premium plugins. As these are third party premium plugins, you'll need to purchase, install and activate them first."
+msgstr "سایت آماده آسترا به به افزونه‌های تجاری نیاز دارد. به دلیل اینکه این افزونه‌ها توسط شرکت‌های جانبی ساخته شده‌اند، شما باید ابتدا آن‌ها را خریداری کرده، سپس نصب و فعال کنید."
+
+#: inc/classes/class-astra-sites.php:1948 inc/includes/templates.php:468
+msgid "Required Plugins Missing"
+msgstr "افزونه‌های ضروری وجود ندارند"
+
+#: inc/classes/class-astra-sites-page.php:425
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: inc/lib/ai-builder/inc/traits/helper.php:521
+msgid "Plugin Activated"
+msgstr "افزونه فعال شد"
+
+#: inc/lib/ai-builder/inc/ajax/plugin.php:325
+msgid "Theme Activated"
+msgstr "قالب فعال شده است"
+
+#: inc/classes/class-astra-sites.php:2084
+msgid "Install Required Plugins"
+msgstr "نصب افزونه‌های لازم"
+
+#: inc/lib/ai-builder/ai-builder-plugin-loader.php:397
+msgid "Installed! Activating.."
+msgstr "نصب شد! درحال فعالسازی..."
+
+#: inc/classes/class-astra-sites-page.php:441
+msgid "Brizy"
+msgstr "Brizy"
+
+#: inc/classes/class-astra-sites-page.php:436
+#: inc/lib/ai-builder/inc/assets/build/main.js:180
+#: inc/lib/ai-builder/inc/assets/src/components/page-builder-dropdown.js:22
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:123
+#: inc/lib/onboarding/assets/src/steps/ai/index.js:96
+#: inc/lib/onboarding/assets/src/steps/site-list/page-builder-filter/index.js:74
+msgid "Beaver Builder"
+msgstr "Beaver Builder"
+
+#: inc/classes/class-astra-sites-page.php:431
+#: inc/lib/ai-builder/inc/assets/build/main.js:180
+#: inc/lib/ai-builder/inc/assets/src/components/page-builder-dropdown.js:17
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:123
+#: inc/lib/onboarding/assets/src/steps/site-list/page-builder-filter/index.js:68
+msgid "Elementor"
+msgstr "Elementor"
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer/st-wxr-importer.php:805
+msgid "Import complete!"
+msgstr "درون‌ریزی کامل شد!"
+
+#: inc/classes/class-astra-sites-wp-cli.php:286
+msgid "Importing Widgets.."
+msgstr "درحال درون‌ریزی ابزارک‌ها..."
+
+#: inc/classes/class-astra-sites-wp-cli.php:278
+msgid "Importing Site Options.."
+msgstr "درحال درون‌ریزی تنظیمات..."
+
+#. translators: %s is the site URL.
+#: inc/classes/class-astra-sites-wp-cli.php:296
+msgid ""
+"Site Imported Successfully!\n"
+"Visit: %s"
+msgstr ""
+"هووورا! سایت شما با موفقیت درون‌ریزی شد!\n"
+"مشاهده: %s"
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:347
+msgid "Widget data is empty!"
+msgstr "داده‌های ابزارک خالی است!"
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:264
+msgid "Site options are empty!"
+msgstr "گزینه‌های سایت خالی هستند!"
+
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:785
+#: inc/lib/starter-templates-importer/importer/st-importer.php:228
+msgid "There was an error downloading the XML file."
+msgstr "هنگام دانلود فایل XML خطایی رخ داد."
+
+#: inc/lib/ai-builder/inc/traits/helper.php:801
+msgid "Customizer data is empty!"
+msgstr "داده‌های سفارشی‌ساز خالی است!"
+
+#: inc/classes/class-astra-sites-importer-log.php:372
+#: inc/classes/class-astra-sites-importer-log.php:429
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:376
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:433
+msgid "No"
+msgstr "خیر"
+
+#: inc/classes/class-astra-sites-importer-log.php:369
+#: inc/classes/class-astra-sites-importer-log.php:426
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:373
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:430
+msgid "Yes"
+msgstr "بله"
+
+#: inc/classes/class-astra-sites-importer-log.php:383
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:387
+msgctxt "PHP Version"
+msgid "We recommend to use php 5.4 or higher"
+msgstr "توصیه می کنیم از php 5.4 یا بالاتر استفاده کنید"
+
+#. translators: %1$s Memory Limit, %2$s Recommended memory limit.
+#: inc/classes/class-astra-sites-importer-log.php:302
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:306
+msgctxt "Recommended Memory Limit"
+msgid "Current memory limit %1$s. We recommend setting memory to at least %2$s."
+msgstr "محدودیت حافظه فعلی %1$s می‌باشد. توصیه میکنیم حداقل %2$s حافظه را تنظیم کنید."
+
+#: inc/classes/class-astra-sites-importer-log.php:284
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:288
+msgid "Disabled"
+msgstr "غیرفعال"
+
+#: inc/classes/class-astra-sites-importer-log.php:281
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:285
+msgid "Enabled"
+msgstr "فعال"
+
+#: inc/includes/white-label.php:34
+msgid "Plugin Description:"
+msgstr "توضیحات افزونه:"
+
+#. translators: %1$s product name
+#: inc/classes/class-astra-sites-white-label.php:240
+msgid "%1$s Branding"
+msgstr "%1$s برند تجاری"
+
+#: inc/includes/white-label.php:29
+msgid "Plugin Name:"
+msgstr "نام افزونه:"
+
+#. translators: %d are the minutes.
+#: inc/lib/starter-templates-importer/importer/helpers/wp-background-process.php:444
+msgid "Every %d Minutes"
+msgstr "هر %d دقیقه"
+
+#: inc/classes/class-astra-sites.php:1632
+msgid "Upgrade"
+msgstr "بروزرسانی"
+
+#. Author of the plugin
+#: astra-sites.php
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"
+
+#. translators: %d is comment id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2302
+msgid "Could not update comment #%d with mapped data"
+msgstr "دیدگاه #%d با داده‌های نگاشت آپدیت نشد"
+
+#. translators: %1$d is comment id, %2$d is author id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2282
+msgid "Comment %1$d was imported with author %2$d, but could not be found"
+msgstr "دیدگاه %1$d با نویسنده‌ی %2$d درون‌ریزی شد، اما یافت نشد"
+
+#. translators: %d is comment id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2275
+msgid "Could not find the author for comment #%d"
+msgstr "نویسنده‌ی دیدگاه #%d یافت نشد"
+
+#. translators: %1$s is comment id, %2$s is parent comment id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2258
+msgid "Comment %1$d was imported with parent %2$d, but could not be found"
+msgstr "دیدگاه %1$d با دیدگاه مادر %2$d درون‌ریزی شد، اما یافت نشد"
+
+#. translators: %d is comment id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2251
+msgid "Could not find the comment parent for comment #%d"
+msgstr "دیدگاه مادر برای دیدگاه #%d یافت نشد"
+
+#. translators: %1$s is post id, %2$s is post object id, %3$s is menu type.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2220
+msgid "Post %1$d was imported with object \"%2$d\" of type \"%3$s\", but could not be found"
+msgstr "پست %1$d با شیء \"%2$d\" از نوع \"%3$s\" درون‌ریزی شد، اما یافت نشد"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2212
+msgid "Could not find the menu object for \"%1$s\" (post #%2$d)"
+msgstr "شیء منو برای \"%1$s\" (پست #%2$d) یافت نشد"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2158
+msgid "Could not update \"%1$s\" (post #%2$d) with mapped data"
+msgstr "پست \"%1$s\" (پست #%2$d) با داده‌های نگاشت آپدیت نشد"
+
+#. translators: %d is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2141
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "پست %d برای پردازش علامتگذاری شد، اما هیچکدام از آنها نیاز نبود."
+
+#. translators: %1$d is post id, %2$s is author slug.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2112
+msgid "Post %1$d was imported with author \"%2$s\", but could not be found"
+msgstr "پست %1$d با نویسنده‌ی \"%2$s\" درون‌ریزی شد، اما یافت نشد"
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2104
+msgid "Could not find the author for \"%1$s\" (post #%2$d)"
+msgstr "نویسنده ای برای \"%1$s\" (پست #%2$d) یافت نشد"
+
+#. translators: %1$d is post id, %2$d is parent post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2087
+msgid "Post %1$d was imported with parent %2$d, but could not be found"
+msgstr "پست %1$d با پست مادر %2$d درون‌ریزی شد، اما یافت نشد"
+
+#. translators: %1$s is post title, %2$s is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2079
+msgid "Could not find the post parent for \"%1$s\" (post #%2$d)"
+msgstr "پست مادر برای \"%1$s\" (پست #%2$d) یافت نشد"
+
+#. translators: %d is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2063
+msgid "Running post-processing for post %d"
+msgstr "پس از پردازش برای پست %d اجرا می شود"
+
+#. translators: %s max file size.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2030
+msgid "Remote file is too large, limit is %s"
+msgstr "فایل از راه دور خیلی بزرگ است، حد مجاز %s است"
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2023
+msgid "Zero size file downloaded"
+msgstr "فایل اندازه صفر دانلود شده است"
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2018
+msgid "Remote file is incorrect size"
+msgstr "اندازه فایل از راه دور نادرست است"
+
+#. translators: %1$s is error code, %2$s is error code header, %3$s is url.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2005
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "سرور از راه دور %1$d %2$s به %3$s بازگشت"
+
+#. translators: %1$s is the taxonomy, %2$s is taxonomy name.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1912
+msgid "Failed to import %1$s %2$s"
+msgstr "درون‌ریزی %1$s %2$s ناموفق بود"
+
+#. translators: %1$s original user Id, %2$s old user Id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1747
+msgid "User %1$d remapped to %2$d"
+msgstr "کاربر %1$d به %2$d اختصاص داده شد"
+
+#. translators: %s user login name
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1740
+msgid "Imported user \"%s\""
+msgstr "کاربر \"%s\" درون‌ریزی شد"
+
+#. translators: %s user login name
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1716
+msgid "Failed to import user \"%s\""
+msgstr "درون‌ریزی کاربر \"%s\" انجام نشد"
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1211
+msgid "Invalid file type"
+msgstr "فایل تایپ نامعتبر است"
+
+#. translators: %1$s is the original post id, %2$s is old post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1060
+msgid "Post %1$d remapped to %2$d"
+msgstr "پست %1$d به %2$d اختصاص داده شد"
+
+#. translators: %1$s is the post title, %2$s is post type.
+#. translators: %1$s is the taxonomy name, %2$s is taxonomy.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1052
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1939
+msgid "Imported \"%1$s\" (%2$s)"
+msgstr "\"%1$s\" (%2$s) درون‌ریزی شد"
+
+#. translators: %1$s is the post title, %2$s is post type.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1017
+msgid "Failed to import \"%1$s\" (%2$s)"
+msgstr "درون‌ریزی \"%1$s\" (%2$s) ناموفق بود."
+
+#. translators: %s is post title
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:993
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "پیوست \"%s\" از قلم افتاده است ،گرفتن فایلهای پیوست غیر فعال شده است"
+
+#. translators: %1$s single post type, %2$s is post title.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:895
+msgid "%1$s \"%2$s\" already exists."
+msgstr "%1$s \"%2$s\" از قبل وجود دارد."
+
+#. translators: %1$s is the import message, %2$s is post type.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:883
+msgid "Failed to import \"%1$s\": Invalid post type %2$s"
+msgstr "درون‌ریزی \"%1$s\" ناموفق بود: پست تایپ %2$s نامعتبر است"
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:783
+msgid "Cannot import auto-draft posts"
+msgstr "نمی‌تواند پستهای پیش‌نویس خودکار را درون‌ریزی کند"
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:622
+msgid "The file does not exist, please try again."
+msgstr "فایل وجود ندارد، لطفا دوباره امتحان کنید."
+
+#. translators: %1$s is WXR version, %2$s is max supported WXR version.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:276
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:395
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:471
+msgid "This WXR file (version %1$s) is newer than the importer (version %2$s) and may not be supported. Please consider updating."
+msgstr "این فایل WXR (نسخه %1$s) جدیدتر از (نسخه %2$s) درون‌ریزی شده است و ممکن است پشتیبانی نشود. لطفا آپدیت کنید."
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:238
+msgid "Could not open the file for parsing"
+msgstr "نتوانست فایل را برای تجزیه و تحلیل باز کند"
+
+#: inc/importers/class-astra-widget-importer.php:274
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:276
+msgid "No Title"
+msgstr "بدون عنوان"
+
+#: inc/importers/class-astra-widget-importer.php:268
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:270
+msgid "Imported to Inactive"
+msgstr "به غیرفعال درون‌ریزی شد"
+
+#: inc/importers/class-astra-widget-importer.php:265
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:267
+msgid "Imported"
+msgstr "درون‌ریزی شد"
+
+#: inc/importers/class-astra-widget-importer.php:196
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:198
+msgid "Widget already exists"
+msgstr "ابزارک از قبل وجود دارد"
+
+#: inc/importers/class-astra-widget-importer.php:160
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:162
+msgid "Site does not support widget"
+msgstr "سایت از ابزارک پشتیبانی نمی‌کند"
+
+#: inc/importers/class-astra-widget-importer.php:94
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:93
+msgid "Import data could not be read. Please try a different file."
+msgstr "داده‌های درون‌ریز نمی‌توانند خوانده شوند. لطفا یک فایل دیگر را امتحان کنید."
+
+#: inc/classes/class-astra-sites.php:1647
+msgid "Done! View Site"
+msgstr "انجام شد! مشاهده سایت"
+
+#: inc/importers/class-astra-widget-importer.php:138
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:140
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr "ناحیه‌ی ابزارک در قالب وجود ندارد (بهره‌برداری غیرفعال)"
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:682
+msgid "Invalid author mapping"
+msgstr "نگاشت نویسنده نامعتبر است"
+
+#. translators: %1$s is term original id, %2$s is term id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1947
+msgid "Term %1$d remapped to %2$d"
+msgstr "ترم %1$d به %2$d اختصاص داده شد"
+
+#: inc/includes/templates.php:144 inc/includes/templates.php:145
+msgid "Close"
+msgstr "بستن"

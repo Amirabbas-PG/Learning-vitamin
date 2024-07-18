@@ -1,0 +1,1574 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: freddo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1) ? 0 : 1;\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: sections/section-skills.php:30
+msgid "%"
+msgstr "%"
+
+#: inc/admin/freddo-admin-page.php:597
+msgid "+ more sections"
+msgstr "+ بخش های بیشتر"
+
+#: inc/admin/freddo-admin-page.php:567
+msgid "+ more social buttons"
+msgstr "+ دکمه های اجتماعی بیشتر"
+
+#: inc/customizer.php:1402
+msgid "1"
+msgstr "1"
+
+#: inc/admin/freddo-admin-page.php:304
+msgid "1) Create a new page and name it as you like (eg. My Home Page). In the \"Page Attributes\" section choose the template called \"One Page Website\" and save the page."
+msgstr "1) یک صفحه جدید ایجاد کنید و نام آن را همانطور که دوست دارید (مثلا صفحه اصلی من) بگذارید. در بخش &quot;ویژگی های صفحه&quot; الگوی به نام &quot;وب سایت یک صفحه&quot; را انتخاب کنید و صفحه را ذخیره کنید."
+
+#: inc/admin/freddo-admin-page.php:337
+msgid "1) Go to your WordPress Dashboard under \"Appearance-> Customize-> Freddo Onepage\" and choose one section (eg. Features) and add a section ID (eg. features) for this section. Save the options."
+msgstr "1) به داشبورد وردپرس خود در بخش «ظاهر-&gt; سفارشی کردن-&gt; صفحه شخصی فردو» بروید و یک بخش (مثلاً ویژگی ها) را انتخاب کنید و یک شناسه بخش (مثلاً ویژگی ها) را برای این بخش اضافه کنید. گزینه ها را ذخیره کنید."
+
+#: inc/admin/freddo-admin-page.php:370
+msgid "1) These sections (About Us, Features, Services and Team) work in the same way and with the same procedure. To insert the content create a new page, and insert the title, content and featured image. The featured image is only valid for the \"About Us\" and \"Team\" section but is not mandatory."
+msgstr "1) این بخش ها (درباره ما، ویژگی ها، خدمات و تیم) به یک روش و با همان روال کار می کنند. برای درج محتوا یک صفحه جدید ایجاد کنید و عنوان، محتوا و تصویر ویژه را وارد کنید. تصویر برجسته فقط برای بخش &quot;درباره ما&quot; و &quot;تیم&quot; معتبر است اما اجباری نیست."
+
+#: inc/admin/freddo-admin-page.php:591
+msgid "1 loader"
+msgstr "1 لودر"
+
+#: inc/customizer.php:1403
+msgid "2"
+msgstr "2"
+
+#: inc/admin/freddo-admin-page.php:312
+msgid "2) Go in your WordPress Dashboard under \"Settings-> Reading\". Set the \"Front page displays\" on \"Static Page\" and choose the page you previously created as Front page (eg. My Home Page)."
+msgstr "2) به داشبورد وردپرس خود در قسمت «تنظیمات-&gt; خواندن» بروید. &quot;نمایش صفحه اول&quot; را روی &quot;صفحه ثابت&quot; تنظیم کنید و صفحه ای را که قبلا ایجاد کرده اید به عنوان صفحه اول انتخاب کنید (مثلاً صفحه اصلی من)."
+
+#: inc/admin/freddo-admin-page.php:378
+msgid "2) Now go to \"Appearance-> Customize-> Freddo Onepage\" and choose the section you want to edit (About Us, Features or Services). Find the option called \"Choose the page to display\" and search the page you just created."
+msgstr "2) اکنون به &quot;Appearance-&gt; Customize-&gt; Freddo Onepage&quot; بروید و بخشی را که می خواهید ویرایش کنید (درباره ما، ویژگی ها یا خدمات) انتخاب کنید. گزینه ای به نام «انتخاب صفحه برای نمایش» را پیدا کنید و صفحه ای را که ایجاد کرده اید جستجو کنید."
+
+#: inc/admin/freddo-admin-page.php:345
+msgid "2) Now go to your WordPress Dashboard under \"Appearance-> Menus\" and create a new custom link with the URL of your home page followed the ID created for the section (eg. yoursite.com/#features). Add this custom link to your menu and save the options."
+msgstr "2) اکنون به داشبورد وردپرس خود در زیر &quot;ظاهر-&gt; منوها&quot; بروید و یک پیوند سفارشی جدید با URL صفحه اصلی خود به دنبال شناسه ایجاد شده برای بخش ایجاد کنید (به عنوان مثال yoursite.com/#features). این پیوند سفارشی را به منوی خود اضافه کنید و گزینه ها را ذخیره کنید."
+
+#: inc/customizer.php:1404
+msgid "3"
+msgstr "3"
+
+#: inc/admin/freddo-admin-page.php:386
+msgid "3) Now the section will show the content of the page previously created and the layout will be like the example image. The \"Features\", \"Services\" and \"Team\" sections work in the same way but will have a different layout."
+msgstr "3) اکنون قسمت محتوای صفحه ای که قبلا ایجاد شده را نشان می دهد و طرح بندی مانند تصویر نمونه خواهد بود. بخش‌های «ویژگی‌ها»، «سرویس‌ها» و «تیم» به یک شکل کار می‌کنند اما طرح‌بندی متفاوتی خواهند داشت."
+
+#: inc/admin/freddo-admin-page.php:320
+msgid "3) Perfect! Now you can go in your WordPress Dashboard under \"Appearance-> Customize\" and you'll see the section called \"Freddo Onepage\" in which you can customize the home page."
+msgstr "3) عالی! اکنون می‌توانید به داشبورد وردپرس خود در قسمت «ظاهر-&gt; سفارشی‌سازی» بروید و بخشی به نام «فردو یک صفحه» را مشاهده خواهید کرد که در آن می‌توانید صفحه اصلی را سفارشی کنید."
+
+#: inc/customizer.php:1405
+msgid "4"
+msgstr "4"
+
+#: inc/admin/freddo-admin-page.php:655
+msgid "4 Shortcodes"
+msgstr "4 کد کوتاه"
+
+#: inc/admin/freddo-admin-page.php:592
+msgid "7 loaders"
+msgstr "7 لودر"
+
+#: inc/admin/freddo-admin-page.php:650
+msgid "9 Exclusive Widgets"
+msgstr "9 ویجت انحصاری"
+
+#: inc/admin/freddo-admin-page.php:31 inc/admin/freddo-admin-page.php:105
+msgid "About"
+msgstr "در باره"
+
+#: inc/customizer.php:1151 sections/section-aboutus.php:5
+msgid "About Us"
+msgstr "درباره ما"
+
+#: inc/customizer.php:756
+msgid "About Us Text"
+msgstr "متن درباره ما"
+
+#: inc/customizer.php:1226
+msgid "About us button"
+msgstr "دکمه درباره ما"
+
+#: inc/customizer.php:1193
+msgid "About us text"
+msgstr "متن درباره ما"
+
+#: inc/admin/freddo-admin-page.php:66
+msgid "Action failed. Please refresh the page and retry."
+msgstr "اقدام ناموفق بود. لطفا صفحه را تازه کنید و دوباره امتحان کنید."
+
+#: functions.php:193 functions.php:202 functions.php:211 functions.php:220
+#: functions.php:229
+msgid "Add widgets here."
+msgstr "ویجت ها را در اینجا اضافه کنید."
+
+#: inc/customizer.php:2733
+msgid "Additional Text"
+msgstr "متن اضافی"
+
+#: inc/customizer.php:2765
+msgid "Address line 1"
+msgstr "آدرس خط 1"
+
+#: inc/customizer.php:2781
+msgid "Address line 2"
+msgstr "آدرس خط 2"
+
+#: inc/customizer.php:2797
+msgid "Address line 3"
+msgstr "آدرس خط 3"
+
+#: inc/admin/freddo-admin-page.php:167
+msgid "All Theme Options are available via Customize screen."
+msgstr "همه گزینه های تم از طریق صفحه سفارشی در دسترس هستند."
+
+#: inc/customizer.php:1373 sections/section-features.php:6
+msgid "Amazing Features"
+msgstr "ویژگی های شگفت انگیز"
+
+#: inc/customizer.php:1122 inc/customizer.php:1328 inc/customizer.php:1587
+#: inc/customizer.php:1758 inc/customizer.php:1950 inc/customizer.php:2288
+#: inc/customizer.php:2457 inc/customizer.php:2648
+msgid "Background Color Section"
+msgstr "بخش رنگ پس زمینه"
+
+#: inc/customizer.php:1102 inc/customizer.php:1308 inc/customizer.php:1567
+#: inc/customizer.php:1738 inc/customizer.php:1930 inc/customizer.php:2268
+#: inc/customizer.php:2437 inc/customizer.php:2628
+msgid "Background Image Section (optional)"
+msgstr "بخش تصویر پس‌زمینه (اختیاری)"
+
+#: inc/customizer.php:3472
+msgid "Bandcamp"
+msgstr "اردوی گروهی"
+
+#: inc/customizer.php:619
+msgid "Bandcamp URL"
+msgstr "URL باندکمپ"
+
+#: inc/customizer.php:826
+msgid "Blog Text"
+msgstr "متن وبلاگ"
+
+#: inc/customizer.php:1455
+msgid "Box number "
+msgstr "شماره جعبه "
+
+#: inc/customizer.php:2129
+msgid "Button link (optional)"
+msgstr "پیوند دکمه (اختیاری)"
+
+#: inc/customizer.php:2115
+msgid "Button text (optional)"
+msgstr "متن دکمه (اختیاری)"
+
+#: inc/customizer.php:798
+msgid "CTA Text"
+msgstr "متن CTA"
+
+#: inc/customizer.php:1829
+msgid "Call to action description"
+msgstr "توضیحات فراخوان برای اقدام"
+
+#: inc/customizer.php:1813
+msgid "Call to action phrase"
+msgstr "عبارت Call to action"
+
+#: inc/admin/freddo-admin-page.php:484
+msgid "Can I use a page builder plugin?"
+msgstr "آیا می توانم از افزونه صفحه ساز استفاده کنم؟"
+
+#: comments.php:90
+msgid "Cancel reply"
+msgstr "لغو پاسخ"
+
+#: inc/pro-button/class-customize.php:89
+msgid "Change sections position"
+msgstr "تغییر موقعیت بخش ها"
+
+#: inc/admin/freddo-admin-page.php:138
+msgid "Changelog"
+msgstr "تغییرات"
+
+#: inc/admin/freddo-admin-page.php:69
+msgid "Cheatin&#8217; huh?"
+msgstr "تقلب میکنی؟"
+
+#: inc/admin/freddo-admin-page.php:565
+msgid "Choose Social Icons"
+msgstr "نمادهای اجتماعی را انتخاب کنید"
+
+#: inc/customizer.php:1207 inc/customizer.php:1485 inc/customizer.php:2086
+#: inc/customizer.php:2575
+msgid "Choose the page to display"
+msgstr "صفحه ای را برای نمایش انتخاب کنید"
+
+#: functions.php:191
+msgid "Classic Sidebar"
+msgstr "نوار کناری کلاسیک"
+
+#: inc/admin/freddo-admin-page.php:187
+msgid "Click below to translate this theme into your own language."
+msgstr "برای ترجمه این موضوع به زبان خود روی زیر کلیک کنید."
+
+#: comments.php:92
+msgid "Comment *"
+msgstr "اظهار نظر *"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "نظرات بسته است"
+
+#: inc/customizer.php:2749
+msgid "Company Name"
+msgstr "نام شرکت"
+
+#: inc/customizer.php:2890
+msgid "Contact Form Shortcode"
+msgstr "کد کوتاه فرم تماس"
+
+#: inc/customizer.php:854
+msgid "Contact Text"
+msgstr "متن تماس"
+
+#: inc/customizer.php:2677 sections/section-contact.php:5
+msgid "Contact Us"
+msgstr "تماس با ما"
+
+#: inc/customizer.php:2719
+msgid "Contact fields"
+msgstr "فیلدهای تماس"
+
+#: inc/customizer.php:475
+msgid "Content Accent Color"
+msgstr "رنگ لهجه محتوا"
+
+#: inc/customizer.php:463
+msgid "Content Background Color"
+msgstr "رنگ پس زمینه محتوا"
+
+#: inc/customizer.php:403
+msgid "Content Section"
+msgstr "بخش محتوا"
+
+#: inc/customizer.php:469
+msgid "Content Text Color"
+msgstr "رنگ متن محتوا"
+
+#: sections/section-aboutus.php:40 template-parts/content.php:41
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "به خواندن ادامه دهید<span class=\"screen-reader-text\"> &quot;%s &quot;</span>"
+
+#: inc/customizer.php:281
+msgid "Copyright Text"
+msgstr "متن حق چاپ"
+
+#: inc/customizer.php:252
+msgid "Custom Excerpt Final"
+msgstr "سفارشی گزیده نهایی"
+
+#: inc/admin/freddo-admin-page.php:168
+msgid "Customize"
+msgstr "شخصی سازی"
+
+#: inc/admin/freddo-admin-page.php:81
+msgid "Dismiss"
+msgstr "رد"
+
+#: inc/customizer.php:168
+msgid "Display page loader"
+msgstr "نمایش لودر صفحه"
+
+#: inc/customizer.php:182
+msgid "Display search button in the header"
+msgstr "نمایش دکمه جستجو در هدر"
+
+#: inc/customizer.php:1068
+msgid "Display section about us"
+msgstr "نمایش بخش درباره ما"
+
+#: inc/customizer.php:2234
+msgid "Display section blog"
+msgstr "نمایش بخش وبلاگ"
+
+#: inc/customizer.php:1704
+msgid "Display section call to action"
+msgstr "نمایش بخش دعوت به اقدام"
+
+#: inc/customizer.php:2594
+msgid "Display section contact"
+msgstr "نمایش مخاطب بخش"
+
+#: inc/customizer.php:1274
+msgid "Display section features"
+msgstr "نمایش ویژگی های بخش"
+
+#: inc/customizer.php:1896
+msgid "Display section services"
+msgstr "نمایش خدمات بخش"
+
+#: inc/customizer.php:1533
+msgid "Display section skills"
+msgstr "نمایش مهارت های بخش"
+
+#: inc/customizer.php:871
+msgid "Display section slider"
+msgstr "نمایش نوار لغزنده بخش"
+
+#: inc/customizer.php:2403
+msgid "Display section team"
+msgstr "نمایش تیم بخش"
+
+#: inc/customizer.php:695
+msgid "Display social network in float"
+msgstr "نمایش شبکه اجتماعی به صورت شناور"
+
+#: inc/customizer.php:681
+msgid "Display social network in footer"
+msgstr "نمایش شبکه اجتماعی در فوتر"
+
+#: inc/admin/freddo-admin-page.php:135
+msgid "Documentation"
+msgstr "مستندات"
+
+#: inc/template-tags.php:75 template-parts/content-page.php:41
+#: template-parts/content.php:69
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "ویرایش کنید<span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer.php:1357 sections/section-features.php:5
+msgid "Elements"
+msgstr "عناصر"
+
+#: comments.php:75
+msgid "Email *"
+msgstr "پست الکترونیک *"
+
+#: inc/customizer.php:2860
+msgid "Email Address"
+msgstr "آدرس ایمیل"
+
+#: inc/customizer.php:196
+msgid "Enable Smooth Scroll"
+msgstr "Smooth Scroll را فعال کنید"
+
+#: inc/customizer.php:1686
+msgid "Enter a value between 0 and 100"
+msgstr "مقداری بین 0 تا 100 وارد کنید"
+
+#: inc/customizer.php:3430
+msgid "Facebook"
+msgstr "فیس بوک"
+
+#: inc/customizer.php:549
+msgid "Facebook URL"
+msgstr "آدرس فیس بوک"
+
+#: inc/customizer.php:2844
+msgid "Fax Number"
+msgstr "شماره فکس"
+
+#: inc/customizer.php:2576
+msgid "Featured Image, title and content will be used in the box"
+msgstr "تصویر، عنوان و محتوای ویژه در کادر استفاده خواهد شد"
+
+#: inc/admin/freddo-admin-page.php:538
+msgid "Features"
+msgstr "امکانات"
+
+#: inc/customizer.php:770
+msgid "Features Text"
+msgstr "متن ویژگی ها"
+
+#: inc/customizer.php:3133
+msgid "Filter icons..."
+msgstr "نمادهای فیلتر ..."
+
+#: inc/admin/freddo-admin-page.php:269
+msgid "First install the \"One Click Demo Import\" plugin on the website"
+msgstr "ابتدا افزونه «One Click Demo Import» را در وب سایت نصب کنید"
+
+#: inc/customizer.php:238
+msgid "Fixed main menu also on mobile view"
+msgstr "منوی اصلی ثابت همچنین در نمای موبایل"
+
+#: inc/customizer.php:3454
+msgid "Flickr"
+msgstr "فلیکر"
+
+#: inc/customizer.php:589
+msgid "Flickr URL"
+msgstr "آدرس فلیکر"
+
+#: inc/customizer.php:1472 inc/customizer.php:1798 inc/customizer.php:2073
+#: inc/customizer.php:2911
+msgid "FontAwesome Icon"
+msgstr "نماد FontAwesome"
+
+#: functions.php:54
+msgid "Footer"
+msgstr "پاورقی"
+
+#: functions.php:218
+msgid "Footer Center"
+msgstr "مرکز پاورقی"
+
+#: functions.php:209
+msgid "Footer Left"
+msgstr "پاورقی سمت چپ"
+
+#: functions.php:227
+msgid "Footer Right"
+msgstr "پاورقی سمت راست"
+
+#: inc/customizer.php:435
+msgid "Footer Section"
+msgstr "بخش پاورقی"
+
+#: inc/customizer.php:517
+msgid "Footer accent color"
+msgstr "رنگ تاکیدی پاورقی"
+
+#: inc/customizer.php:505
+msgid "Footer background color"
+msgstr "رنگ پس زمینه پاورقی"
+
+#: inc/customizer.php:511
+msgid "Footer text color"
+msgstr "رنگ متن پاورقی"
+
+#: inc/customizer.php:1438 inc/customizer.php:2039 inc/customizer.php:2546
+msgid "Formatted Text"
+msgstr "متن قالب بندی شده"
+
+#: inc/admin/freddo-admin-page.php:539
+msgid "Freddo"
+msgstr "سرد"
+
+#: inc/demo-import/demo-import-settings.php:7
+msgid "Freddo Demo Content"
+msgstr "محتوای نسخه ی نمایشی سرد"
+
+#: inc/customizer.php:78
+msgid "Freddo Onepage"
+msgstr "Onepage باحال"
+
+#: inc/admin/freddo-admin-page.php:540
+msgid "Freddo PRO"
+msgstr "Cold PRO"
+
+#: inc/pro-button/class-customize.php:71
+msgid "Freddo PRO Theme"
+msgstr "تم Freddo PRO"
+
+#: inc/customizer.php:71
+msgid "Freddo Theme Options"
+msgstr "گزینه های تم فردو"
+
+#: inc/admin/freddo-admin-page.php:261
+msgid "Freddo WordPress Theme Documentation"
+msgstr "مستندات قالب وردپرس Freddo"
+
+msgid "Freddo is a fresh and minimal multipurpose WordPress Theme with all the feature that you need to make a complete website in one page. In the home page you can use many sections including Slider, About Us, Team Section, Skills, Contact section and much more, all this in a few seconds by using one click demo importer plugin. Moreover, Freddo Theme has a beautiful appearance for blogging with featured image in the header. Freddo Theme is fully compatible with WooCommerce that allows you to create your personal E-Commerce, with WPML (multilingual ready), with Gutenberg and with the most common page builders (Elementor, SiteOrigin, Beaver Builder). Unlimited colors, 2 sidebar, footer widget, custom logo and many other options. Demo here: https://crestaproject.com/demo/freddo/"
+msgstr "Freddo یک قالب وردپرس چند منظوره جدید و مینیمال با تمام ویژگی هایی است که برای ایجاد یک وب سایت کامل در یک صفحه به آن نیاز دارید. در صفحه اصلی می‌توانید از بخش‌های زیادی از جمله اسلایدر، درباره ما، بخش تیم، مهارت‌ها، بخش تماس و موارد دیگر استفاده کنید، همه اینها در چند ثانیه با استفاده از افزونه واردکننده نسخه ی نمایشی با یک کلیک. علاوه بر این، تم Freddo ظاهر زیبایی برای وبلاگ نویسی با تصویر برجسته در هدر دارد. Freddo Theme کاملاً با WooCommerce سازگار است که به شما امکان می دهد تجارت الکترونیک شخصی خود را با WPML (آماده چند زبانه)، با Gutenberg و با رایج ترین سازندگان صفحه (Elementor، SiteOrigin، Beaver Builder) ایجاد کنید. رنگ های نامحدود، 2 نوار کناری، ویجت پاورقی، لوگوی سفارشی و بسیاری گزینه های دیگر. نسخه ی نمایشی اینجا: https://crestaproject.com/demo/freddo/"
+
+#: inc/customizer.php:155
+msgid "Freddo useful links"
+msgstr "لینک های مفید فردو"
+
+#: inc/admin/freddo-admin-page.php:132
+msgid "Free Vs PRO"
+msgstr "رایگان در مقابل PRO"
+
+msgid "Full width for page builders"
+msgstr "عرض کامل برای سازندگان صفحه"
+
+#: inc/customizer.php:481
+msgid "General Border Color"
+msgstr "رنگ مرز عمومی"
+
+#: inc/customizer.php:82
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: inc/admin/freddo-admin-page.php:679
+msgid "Get Freddo PRO"
+msgstr "Chill PRO را دریافت کنید"
+
+#: inc/customizer.php:2693 sections/section-contact.php:6
+msgid "Get in touch"
+msgstr "در تماس باشید"
+
+#: inc/admin/freddo-admin-page.php:89
+msgid "Get started with Freddo"
+msgstr "با فردو شروع کنید"
+
+#: inc/customizer.php:282
+msgid "Get the PRO version to remove CrestaProject credits"
+msgstr "نسخه PRO را برای حذف اعتبارات CrestaProject دریافت کنید"
+
+#: inc/admin/freddo-admin-page.php:205
+msgid "Go to Dashboard"
+msgstr "به داشبورد بروید"
+
+#: inc/admin/freddo-admin-page.php:205
+msgid "Go to Dashboard &rarr; Home"
+msgstr "به داشبورد ← صفحه اصلی بروید"
+
+#: inc/customizer.php:2364 sections/section-blog.php:10
+msgid "Go to the blog!"
+msgstr "برو به وبلاگ!"
+
+#: inc/admin/freddo-admin-page.php:472
+msgid "Go to your WordPress Dashboard under \"Appearance-> Customize-> Freddo Theme Options-> General Settings\", find the option called \"Display page loader\" and check it. The background will be the same of \"Content background color\" and the loader icon the same color of \"Link color\"."
+msgstr "به داشبورد وردپرس خود در قسمت «ظاهر-&gt; سفارشی کردن-&gt; گزینه های تم فردو-&gt; تنظیمات عمومی» بروید، گزینه ای به نام «بارکننده صفحه نمایش» را پیدا کنید و آن را علامت بزنید. پس‌زمینه همان «رنگ پس‌زمینه محتوا» و نماد لودر همان رنگ «رنگ پیوند» خواهد بود."
+
+#: inc/admin/freddo-admin-page.php:421
+msgid "Go to your WordPress Dashboard under \"Appearance-> Customize-> Freddo Theme Options-> Social Network\". Here you can choose which social network to show, social icons will be displayed in the footer."
+msgstr "به داشبورد وردپرس خود در قسمت «ظاهر-&gt; سفارشی کردن-&gt; گزینه های تم فردو-&gt; شبکه اجتماعی» بروید. در اینجا می توانید انتخاب کنید کدام شبکه اجتماعی نمایش داده شود، نمادهای اجتماعی در فوتر نمایش داده می شوند."
+
+#: inc/admin/freddo-admin-page.php:455
+msgid "Go to your WordPress Dashboard under \"Appearance-> Customize-> Freddo Theme Options-> Theme Colors\". Here you can change the theme colors according to sections of the site (header, content, push sidebar and footer)."
+msgstr "به داشبورد وردپرس خود در قسمت &quot;ظاهر-&gt; سفارشی کردن-&gt; گزینه های تم فردو-&gt; رنگ های تم&quot; بروید. در اینجا می‌توانید رنگ‌های تم را با توجه به بخش‌های سایت (هدر، محتوا، نوار کناری فشار و پاورقی) تغییر دهید."
+
+#: inc/admin/freddo-admin-page.php:438
+msgid "Go to your WordPress Dashboard under \"Appearance-> Customize-> Site Identity\". Here you can upload your custom logo (size 250x60px)."
+msgstr "به داشبورد وردپرس خود در قسمت «ظاهر-&gt; سفارشی کردن-&gt; هویت سایت» بروید. در اینجا می توانید لوگوی سفارشی خود را (اندازه 250x60 پیکسل) آپلود کنید."
+
+#: inc/admin/freddo-admin-page.php:630
+msgid "Google Fonts switcher"
+msgstr "تعویض فونت گوگل"
+
+#: inc/customizer.php:3436
+msgid "Google Plus"
+msgstr "گوگل پلاس"
+
+#: inc/customizer.php:559
+msgid "Google Plus URL"
+msgstr "آدرس گوگل پلاس"
+
+#: inc/admin/freddo-admin-page.php:171
+msgid "Got theme support question?"
+msgstr "آیا سوال پشتیبانی تم دارید؟"
+
+#: inc/customizer.php:457
+msgid "Header Accent Color"
+msgstr "هدر لهجه رنگ"
+
+#: inc/customizer.php:445
+msgid "Header Background Color"
+msgstr "رنگ پس زمینه هدر"
+
+#: inc/customizer.php:387
+msgid "Header Section"
+msgstr "بخش سرصفحه"
+
+#: inc/customizer.php:451
+msgid "Header Text Color"
+msgstr "رنگ متن سرصفحه"
+
+#: inc/customizer.php:210
+msgid "Host Google Fonts locally"
+msgstr "فونت های گوگل را به صورت محلی میزبانی کنید"
+
+#: inc/customizer.php:1395
+msgid "How many boxes to display"
+msgstr "چند باکس برای نمایش"
+
+#: inc/admin/freddo-admin-page.php:433
+msgid "How to add custom logo"
+msgstr "نحوه اضافه کردن لوگوی سفارشی"
+
+#: inc/admin/freddo-admin-page.php:416
+msgid "How to add social icons"
+msgstr "نحوه اضافه کردن آیکون های اجتماعی"
+
+#: inc/admin/freddo-admin-page.php:450
+msgid "How to change theme colors"
+msgstr "نحوه تغییر رنگ تم"
+
+#: inc/admin/freddo-admin-page.php:467
+msgid "How to display page loader"
+msgstr "نحوه نمایش صفحه لودر"
+
+#: inc/admin/freddo-admin-page.php:501
+msgid "How to highlight a menu item"
+msgstr "چگونه یک آیتم منو را برجسته کنیم"
+
+#: inc/admin/freddo-admin-page.php:264
+msgid "How to import demo content"
+msgstr "نحوه وارد کردن محتوای آزمایشی"
+
+#: inc/admin/freddo-admin-page.php:291
+msgid "How to set the \"one page\" template in the home page"
+msgstr "نحوه تنظیم قالب &quot;یک صفحه&quot; در صفحه اصلی"
+
+#: inc/customizer.php:886 inc/customizer.php:1083 inc/customizer.php:1289
+#: inc/customizer.php:1548 inc/customizer.php:1719 inc/customizer.php:1911
+#: inc/customizer.php:2249 inc/customizer.php:2418 inc/customizer.php:2609
+msgid "ID for this section - if you want the user to be able to scroll down to this section."
+msgstr "شناسه این بخش - اگر می خواهید کاربر بتواند به پایین به این بخش پیمایش کند."
+
+#: inc/admin/freddo-admin-page.php:506
+msgid "If you need to emphasize a menu item (call to action, donate button, etc..) just go to your WordPress Dashboard under \"Appearance-> Menus\". Create a new \"Custom Links\" and drag it into the menu. Expand the entry and in the \"CSS Classes\" section write: crestaMenuButton"
+msgstr "اگر می‌خواهید روی آیتم‌های منو تأکید کنید (دکمه دعوت به اقدام، دکمه اهدا، و غیره) فقط به داشبورد وردپرس خود در بخش «ظاهر-&gt; منوها» بروید. یک &quot;پیوندهای سفارشی&quot; جدید ایجاد کنید و آن را به منو بکشید. ورودی را گسترش دهید و در بخش &quot;کلاس های CSS&quot; بنویسید: crestaMenuButton"
+
+#: inc/customizer.php:3469
+msgid "Imdb"
+msgstr "imdb"
+
+#: inc/customizer.php:614
+msgid "Imdb URL"
+msgstr "URL imdb"
+
+#: inc/admin/freddo-admin-page.php:90 inc/admin/freddo-admin-page.php:117
+msgid "Import demo content (instructions)"
+msgstr "وارد کردن محتوای آزمایشی (دستورالعمل)"
+
+#: inc/admin/freddo-admin-page.php:178
+msgid "Info about PRO version"
+msgstr "اطلاعات در مورد نسخه PRO"
+
+#: inc/admin/freddo-admin-page.php:665
+msgid "Information About Author Box"
+msgstr "اطلاعات درباره نویسنده Box"
+
+#: inc/customizer.php:3442
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: inc/customizer.php:569
+msgid "Instagram URL"
+msgstr "آدرس اینستاگرام"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "به نظر می رسد چیزی در این مکان یافت نشد. شاید یکی از پیوندهای زیر را امتحان کنید یا جستجو کنید؟"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "به نظر می رسد ما نمی توانیم آنچه شما به دنبال آن هستید را پیدا کنیم. شاید جستجو بتواند کمک کند."
+
+#: functions.php:73
+msgid "L"
+msgstr "L"
+
+#: functions.php:72
+msgid "Large"
+msgstr "بزرگ"
+
+#: functions.php:78
+msgid "Larger"
+msgstr "بزرگتر"
+
+#: inc/customizer.php:2333 sections/section-blog.php:8
+msgid "Latest Posts"
+msgstr "آخرین پست ها"
+
+#: inc/template-tags.php:37
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "پیام بگذارید<span class=\"screen-reader-text\"> بر%s</span>"
+
+#: comments.php:87
+msgid "Leave a Reply"
+msgstr "پاسخ دهید"
+
+#: comments.php:89
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "پاسخی بگذارید برای%s"
+
+#: inc/customizer.php:2385
+msgid "Link Blog Button"
+msgstr "دکمه پیوند وبلاگ"
+
+#: inc/customizer.php:1256 inc/customizer.php:1859
+msgid "Link Button"
+msgstr "دکمه پیوند"
+
+#: inc/customizer.php:1515
+msgid "Link Button "
+msgstr "دکمه پیوند"
+
+#: inc/admin/freddo-admin-page.php:299 inc/admin/freddo-admin-page.php:365
+msgid "Link to the YouTube video"
+msgstr "پیوند به ویدیوی یوتیوب"
+
+#: inc/customizer.php:3439
+msgid "Linkedin"
+msgstr "لینکدین"
+
+#: inc/customizer.php:564
+msgid "Linkedin URL"
+msgstr "آدرس لینکدین"
+
+#: inc/admin/freddo-admin-page.php:590
+msgid "Loading Page"
+msgstr "در حال بارگیری صفحه"
+
+#: comments.php:85
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "به عنوان وارد شده است<a href=\"%1$s\">%2$s</a> .<a href=\"%3$s\" title=\"Log out of this account\"> خروج؟</a>"
+
+#: inc/admin/freddo-admin-page.php:555
+msgid "Logo Upload"
+msgstr "آپلود لوگو"
+
+#: functions.php:67
+msgid "M"
+msgstr "متر"
+
+#: inc/customizer.php:2875
+msgid "Make email clickable"
+msgstr "ایمیل را قابل کلیک کنید"
+
+#: inc/customizer.php:2828
+msgid "Make phone number clickable"
+msgstr "شماره تلفن را قابل کلیک کنید"
+
+#: inc/admin/freddo-admin-page.php:635
+msgid "Manage sidebar position"
+msgstr "موقعیت نوار کناری را مدیریت کنید"
+
+#: header.php:86
+msgid "Menu"
+msgstr "منو"
+
+#: inc/pro-button/class-customize.php:72
+msgid "More Info"
+msgstr "اطلاعات بیشتر"
+
+#: inc/admin/freddo-admin-page.php:404
+msgid "More Info About PRO Version"
+msgstr "اطلاعات بیشتر درباره نسخه PRO"
+
+#: inc/customizer.php:1234 inc/customizer.php:1494 inc/customizer.php:1838
+#: sections/section-aboutus.php:8 sections/section-cta.php:10
+#: sections/section-features.php:26 sections/section-features.php:56
+#: sections/section-features.php:60 sections/section-features.php:112
+#: sections/section-features.php:116 sections/section-features.php:120
+#: sections/section-features.php:194 sections/section-features.php:198
+#: sections/section-features.php:202 sections/section-features.php:206
+msgid "More Information"
+msgstr "اطلاعات بیشتر"
+
+#: inc/customizer.php:3083
+msgid "More info about Freddo theme"
+msgstr "اطلاعات بیشتر درباره تم Freddo"
+
+#: comments.php:74
+msgid "Name *"
+msgstr "نام *"
+
+#: inc/pro-button/class-customize.php:80
+msgid "Need help?"
+msgstr "کمک خواستن؟"
+
+#: inc/admin/freddo-admin-page.php:176
+msgid "Need more features?"
+msgstr "به ویژگی های بیشتری نیاز دارید؟"
+
+#: inc/customizer.php:670
+msgid "New Window"
+msgstr "پنجره جدید"
+
+#: inc/customizer.php:1882
+msgid "New window"
+msgstr "پنجره جدید"
+
+#: inc/customizer.php:2317 sections/section-blog.php:7
+msgid "News"
+msgstr "اخبار"
+
+#: archive.php:41 index.php:47 search.php:41
+msgid "Next"
+msgstr "بعد"
+
+#: single.php:22
+msgid "Next Post"
+msgstr "پست بعدی"
+
+#: single.php:23
+msgid "Next post:"
+msgstr "پست بعدی:"
+
+#: inc/customizer.php:2502 sections/section-team.php:6
+msgid "Nice to meet you"
+msgstr "از ملاقات شما خوشبختم"
+
+#: inc/customizer.php:908
+msgid "No Effect"
+msgstr "بدون تاثیر"
+
+#: inc/customizer.php:368
+msgid "No effect"
+msgstr "بدون تاثیر"
+
+#: inc/customizer.php:1051
+msgid "Note:"
+msgstr "توجه داشته باشید:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "چیزی پیدا نشد"
+
+#: inc/customizer.php:2355
+msgid "Number of posts to show"
+msgstr "تعداد پست برای نمایش"
+
+#: inc/admin/freddo-admin-page.php:278
+msgid "Once you have installed and activated the plugin, go to your WordPress Dashboard under \"Appearance-> Import Demo Data\" and click on the \"Import Demo Data\" button. Please click on the Import button only once and wait, it can take a couple of minutes."
+msgstr "هنگامی که افزونه را نصب و فعال کردید، به داشبورد وردپرس خود در قسمت «ظاهر-&gt; وارد کردن داده‌های نمایشی» بروید و روی دکمه «وارد کردن داده‌های نمایشی» کلیک کنید. لطفاً فقط یک بار روی دکمه واردات کلیک کنید و صبر کنید، ممکن است چند دقیقه طول بکشد."
+
+#: inc/admin/freddo-admin-page.php:270
+msgid "One Click Demo Import plugin page"
+msgstr "صفحه پلاگین واردات نسخه ی نمایشی با یک کلیک"
+
+#: inc/admin/freddo-admin-page.php:398
+msgid "One Page: how to re-order sections"
+msgstr "یک صفحه: نحوه سفارش مجدد بخش ها"
+
+#: inc/admin/freddo-admin-page.php:332
+msgid "One Page: how to scroll to section using the menu"
+msgstr "یک صفحه: نحوه پیمایش به بخش با استفاده از منو"
+
+#: inc/admin/freddo-admin-page.php:357
+msgid "One Page: how to set \"About Us\" section, \"Features\" section, \"Services\" section and \"Team\" section"
+msgstr "یک صفحه: نحوه تنظیم بخش &quot;درباره ما&quot;، بخش &quot;ویژگی ها&quot;، بخش &quot;خدمات&quot; و بخش &quot;تیم&quot;"
+
+#: inc/customizer.php:716
+msgid "One Page Map"
+msgstr "نقشه یک صفحه"
+
+#: inc/admin/freddo-admin-page.php:605
+msgid "One Page Section Reorder"
+msgstr "سفارش مجدد بخش یک صفحه"
+
+#: inc/admin/freddo-admin-page.php:595
+msgid "One Page Template"
+msgstr "قالب یک صفحه"
+
+#: inc/admin/freddo-admin-page.php:610
+msgid "One Page Template scroll animations"
+msgstr "انیمیشن های پیمایشی قالب یک صفحه"
+
+msgid "One Page Website"
+msgstr "وب سایت تک صفحه"
+
+#: inc/admin/freddo-admin-page.php:600
+msgid "One Page additional sections"
+msgstr "بخش های اضافی یک صفحه"
+
+#: inc/admin/freddo-admin-page.php:615
+msgid "One Page choose Slider Height"
+msgstr "یک صفحه ارتفاع لغزنده را انتخاب کنید"
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "یک نظر برای &quot;%1$s ”"
+
+#: inc/customizer.php:103
+msgid "Onepage general settings"
+msgstr "تنظیمات کلی یک صفحه"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوه! آن صفحه پیدا نمی شود."
+
+#: inc/customizer.php:663
+msgid "Open social links"
+msgstr "پیوندهای اجتماعی را باز کنید"
+
+#: inc/customizer.php:1874
+msgid "Open the link in"
+msgstr "لینک را باز کنید"
+
+#: inc/customizer.php:1616 sections/section-skills.php:5
+msgid "Our Skills"
+msgstr "مهارتهای ما"
+
+#: inc/customizer.php:2486 sections/section-team.php:5
+msgid "Our Team"
+msgstr "تیم ما"
+
+#: inc/pro-button/class-customize.php:90
+msgid "PRO Version"
+msgstr "نسخه PRO"
+
+#: template-parts/content-single.php:44
+msgid "Page"
+msgstr "صفحه"
+
+#: template-parts/content-page.php:28 template-parts/content-single.php:40
+#: template-parts/content.php:51
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: inc/admin/freddo-admin-page.php:625
+msgid "Parallax Effect"
+msgstr "اثر اختلاف منظر"
+
+#: inc/customizer.php:2563
+msgid "Person number "
+msgstr "شماره شخص "
+
+#: inc/customizer.php:2813
+msgid "Phone Number"
+msgstr "شماره تلفن"
+
+#: inc/customizer.php:2162
+msgid "Phrase"
+msgstr "عبارت"
+
+#: inc/customizer.php:3448
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: inc/customizer.php:579
+msgid "Pinterest URL"
+msgstr "آدرس پینترست"
+
+#: inc/customizer.php:1439 inc/customizer.php:2040 inc/customizer.php:2547
+msgid "Plain Text"
+msgstr "متن ساده"
+
+#: inc/admin/freddo-admin-page.php:172
+msgid "Please put it in our support forum."
+msgstr "لطفا آن را در انجمن پشتیبانی ما قرار دهید."
+
+#: inc/admin/freddo-admin-page.php:602
+msgid "Portfolio, Google Map, Numbers, Newsletter, Clients, Testimonials, Video and more..."
+msgstr "نمونه کارها، نقشه گوگل، اعداد، خبرنامه، مشتریان، توصیفات، ویدئو و موارد دیگر..."
+
+#: inc/admin/freddo-admin-page.php:620
+msgid "Portfolio Template"
+msgstr "قالب نمونه کارها"
+
+#: comments.php:91
+msgid "Post Comment"
+msgstr "ارسال نظر"
+
+#: inc/admin/freddo-admin-page.php:645
+msgid "Post views counter"
+msgstr "شمارنده بازدید پست"
+
+#: inc/customizer.php:87
+msgid "Posts and pages settings"
+msgstr "تنظیمات پست ها و صفحات"
+
+#: inc/admin/freddo-admin-page.php:670
+msgid "PowerTip, LightBox, Custom Copyright Text and much more..."
+msgstr "PowerTip، LightBox، متن کپی رایت سفارشی و موارد دیگر..."
+
+#: archive.php:40 index.php:46 search.php:40
+msgid "Previous"
+msgstr "قبلی"
+
+#: single.php:25
+msgid "Previous Post"
+msgstr "پست قبلی"
+
+#: single.php:26
+msgid "Previous post:"
+msgstr "پست قبلی:"
+
+#: functions.php:53 functions.php:160
+msgid "Primary"
+msgstr "اولیه"
+
+#: functions.php:200
+msgid "Push Sidebar"
+msgstr "نوار کناری را فشار دهید"
+
+#: inc/customizer.php:419
+msgid "Push Sidebar Section"
+msgstr "بخش نوار کناری فشار"
+
+#: inc/customizer.php:499
+msgid "Push sidebar accent color"
+msgstr "رنگ تاکیدی نوار کناری را فشار دهید"
+
+#: inc/customizer.php:487
+msgid "Push sidebar background color"
+msgstr "رنگ پس زمینه نوار کناری را فشار دهید"
+
+#: inc/customizer.php:493
+msgid "Push sidebar text color"
+msgstr "رنگ متن نوار کناری را فشار دهید"
+
+#: inc/admin/freddo-admin-page.php:580
+msgid "RTL Support"
+msgstr "پشتیبانی RTL"
+
+#: inc/admin/freddo-admin-page.php:119
+msgid "Rate this theme"
+msgstr "به این موضوع امتیاز دهید"
+
+#: inc/admin/freddo-admin-page.php:403
+msgid "Re-order sections is available in Freddo PRO version. With this feature you can choose the position of each section using drag and drop. Click on the button below for more information:"
+msgstr "سفارش مجدد بخش در نسخه Freddo PRO موجود است. با استفاده از این ویژگی می توانید موقعیت هر بخش را با کشیدن و رها کردن انتخاب کنید. برای اطلاعات بیشتر روی دکمه زیر کلیک کنید:"
+
+#: inc/customizer.php:342 template-parts/content.php:61
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#: inc/customizer.php:347
+msgid "Read More text"
+msgstr "ادامه متن"
+
+#: template-parts/content-none.php:25
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "برای انتشار اولین پست خود آماده اید؟<a href=\"%1$s\"> از اینجا شروع کنید</a> ."
+
+#: inc/customizer.php:2216
+msgid "Recommended image size: 1000X600px."
+msgstr "اندازه تصویر پیشنهادی: 1000x600px."
+
+#: inc/customizer.php:3463
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/customizer.php:604
+msgid "Reddit URL"
+msgstr "URL Reddit"
+
+#: functions.php:66
+msgid "Regular"
+msgstr "منظم"
+
+#: inc/admin/freddo-admin-page.php:660
+msgid "Related Posts Box"
+msgstr "جعبه پست های مرتبط"
+
+#: comments.php:54
+msgid "Reply"
+msgstr "پاسخ"
+
+#: comments.php:78
+msgid "Required fields are marked "
+msgstr "فیلدهای الزامی مشخص شده اند "
+
+#: inc/admin/freddo-admin-page.php:550
+msgid "Responsive Design"
+msgstr "طراحی تعاملی"
+
+#: inc/admin/freddo-admin-page.php:202
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "بازگشت به داشبورد → به روز رسانی ها"
+
+#: inc/admin/freddo-admin-page.php:202
+msgid "Return to Updates"
+msgstr "بازگشت به به روز رسانی"
+
+msgid "Rizzo Andrea - CrestaProject"
+msgstr "Rizzo Andrea - CrestaProject"
+
+#: functions.php:61
+msgid "S"
+msgstr "س"
+
+#: inc/customizer.php:669 inc/customizer.php:1881
+msgid "Same window"
+msgstr "همان پنجره"
+
+#: header.php:136 inc/customizer.php:307 inc/customizer.php:929
+#: sections/section-slider.php:48
+msgid "Scroll Down"
+msgstr "به پایین اسکرول کنید"
+
+#: inc/customizer.php:314 inc/customizer.php:936
+msgid "Scroll Down Text "
+msgstr "متن را به پایین اسکرول کنید "
+
+#: inc/customizer.php:362
+msgid "Scroll down effect on featured images"
+msgstr "افکت اسکرول به پایین روی تصاویر برجسته"
+
+#: inc/customizer.php:901
+msgid "Scroll down effect on slider"
+msgstr "اسکرول به پایین افکت در نوار لغزنده"
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای:%s"
+
+#: inc/customizer.php:885 inc/customizer.php:1082 inc/customizer.php:1288
+#: inc/customizer.php:1547 inc/customizer.php:1718 inc/customizer.php:1910
+#: inc/customizer.php:2248 inc/customizer.php:2417 inc/customizer.php:2608
+msgid "Section ID name"
+msgstr "نام بخش شناسه"
+
+#: inc/customizer.php:113
+msgid "Section about us"
+msgstr "بخش درباره ما"
+
+#: inc/customizer.php:138
+msgid "Section blog"
+msgstr "بخش وبلاگ"
+
+#: inc/customizer.php:128
+msgid "Section call to action"
+msgstr "بخش دعوت به اقدام"
+
+#: inc/customizer.php:148
+msgid "Section contact"
+msgstr "تماس با بخش"
+
+#: inc/customizer.php:118
+msgid "Section features"
+msgstr "ویژگی های بخش"
+
+#: inc/customizer.php:133
+msgid "Section services"
+msgstr "خدمات بخش"
+
+#: inc/customizer.php:123
+msgid "Section skills"
+msgstr "مهارت های بخش"
+
+#: inc/customizer.php:108
+msgid "Section slider"
+msgstr "نوار لغزنده بخش"
+
+#: inc/customizer.php:143
+msgid "Section team"
+msgstr "تیم بخش"
+
+#: inc/customizer.php:2056
+msgid "Service number "
+msgstr "شماره سرویس "
+
+#: inc/customizer.php:2101
+msgid "Service title link (optional)"
+msgstr "لینک عنوان خدمات (اختیاری)"
+
+#: inc/customizer.php:1979 sections/section-services.php:5
+msgid "Services"
+msgstr " خدمات "
+
+#: inc/customizer.php:812
+msgid "Services Text"
+msgstr "متن خدمات"
+
+#: inc/customizer.php:2197
+msgid "Services image"
+msgstr "تصویر خدمات"
+
+#: inc/customizer.php:2148
+msgid "Services text"
+msgstr "متن خدمات"
+
+#: inc/customizer.php:335
+msgid "Show excerpt"
+msgstr "نمایش گزیده"
+
+#: inc/customizer.php:329
+msgid "Show excerpt or full post in the blog page"
+msgstr "گزیده یا پست کامل را در صفحه وبلاگ نمایش دهید"
+
+#: inc/customizer.php:1431 inc/customizer.php:2032 inc/customizer.php:2539
+msgid "Show formatted text or plain text"
+msgstr "نمایش متن قالب بندی شده یا متن ساده"
+
+#: inc/customizer.php:336
+msgid "Show full post"
+msgstr "نمایش پست کامل"
+
+#: inc/customizer.php:920
+msgid "Show scroll down button"
+msgstr "نمایش دکمه اسکرول پایین"
+
+#: inc/customizer.php:224
+msgid "Show scroll to top button also on mobile view"
+msgstr "نمایش دکمه اسکرول به بالا همچنین در نمای موبایل"
+
+#: inc/customizer.php:728
+msgid "Show the one page section map"
+msgstr "نقشه بخش یک صفحه ای را نشان دهید"
+
+#: inc/customizer.php:299
+msgid "Show the scroll down button"
+msgstr "دکمه اسکرول به پایین را نشان دهید"
+
+#: inc/admin/freddo-admin-page.php:585
+msgid "Sidebar and Footer Widgets"
+msgstr "ابزارک های نوار کناری و پاورقی"
+
+#: inc/customizer.php:1671
+msgid "Skill name"
+msgstr "نام مهارت"
+
+#: inc/customizer.php:1659
+msgid "Skill number "
+msgstr "شماره مهارت "
+
+#: inc/customizer.php:1685
+msgid "Skill value"
+msgstr "ارزش مهارت"
+
+#: inc/customizer.php:784
+msgid "Skills Text"
+msgstr "متن مهارت"
+
+#: header.php:36
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#: inc/customizer.php:1002
+msgid "Slide image "
+msgstr "تصویر اسلاید "
+
+#: inc/customizer.php:986
+msgid "Slider "
+msgstr "لغزنده "
+
+#: inc/customizer.php:1032
+msgid "Slider Subtext "
+msgstr "زیر متن اسلایدر "
+
+#: inc/customizer.php:742
+msgid "Slider Text"
+msgstr "متن اسلایدر"
+
+#: inc/customizer.php:1017
+msgid "Slider Text "
+msgstr "متن اسلایدر"
+
+#: inc/customizer.php:951
+msgid "Slider animation speed (milliseconds)"
+msgstr "سرعت انیمیشن اسلایدر (میلی ثانیه)"
+
+#: functions.php:60
+msgid "Small"
+msgstr "کم اهمیت"
+
+#: inc/customizer.php:97
+msgid "Social Buttons"
+msgstr "دکمه های اجتماعی"
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "متأسفیم، اما هیچ چیزی با عبارات جستجوی شما مطابقت نداشت. لطفاً دوباره با کلمات کلیدی مختلف امتحان کنید."
+
+#: inc/customizer.php:3478
+msgid "Spotify"
+msgstr "Spotify"
+
+#: inc/customizer.php:629
+msgid "Spotify URL"
+msgstr "آدرس Spotify"
+
+#: inc/admin/freddo-admin-page.php:640
+msgid "Sticky Sidebar"
+msgstr "نوار کناری چسبنده"
+
+#: inc/customizer.php:966
+msgid "Stop slider on mouse hover"
+msgstr "توقف لغزنده در شناور ماوس"
+
+#: inc/customizer.php:1174 inc/customizer.php:1380 inc/customizer.php:1639
+#: inc/customizer.php:2002 inc/customizer.php:2340 inc/customizer.php:2509
+#: inc/customizer.php:2700
+msgid "Subtitle"
+msgstr "عنوان فرعی"
+
+#: inc/admin/freddo-admin-page.php:173
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: inc/customizer.php:840
+msgid "Team Text"
+msgstr "متن تیم"
+
+#: inc/customizer.php:1241 inc/customizer.php:1844
+msgid "Text Button"
+msgstr "دکمه متن"
+
+#: inc/customizer.php:1501
+msgid "Text Button "
+msgstr "دکمه متن"
+
+#: inc/customizer.php:1142 inc/customizer.php:1348 inc/customizer.php:1607
+#: inc/customizer.php:1778 inc/customizer.php:1970 inc/customizer.php:2308
+#: inc/customizer.php:2477 inc/customizer.php:2668
+msgid "Text Color Section"
+msgstr "بخش رنگ متن"
+
+#: inc/customizer.php:2370
+msgid "Text blog button"
+msgstr "دکمه متن وبلاگ"
+
+#: inc/customizer.php:266
+msgid "Text lenght for blog excerpt (number of words)"
+msgstr "طول متن برای گزیده وبلاگ (تعداد کلمات)"
+
+#: inc/customizer.php:1416 inc/customizer.php:2017
+msgid "Text lenght for boxes content (number of words)"
+msgstr "طول متن برای محتوای جعبه ها (تعداد کلمات)"
+
+#: inc/customizer.php:2524
+msgid "Text lenght for team content (number of words)"
+msgstr "طول متن برای محتوای تیم (تعداد کلمات)"
+
+#: inc/customizer.php:2178
+msgid "Textarea"
+msgstr "Textarea"
+
+#: inc/customizer.php:3069
+msgid "Thank you for using Freddo WordPress Theme"
+msgstr "از شما برای استفاده از قالب وردپرس Freddo سپاسگزاریم"
+
+#: inc/customizer.php:92
+msgid "Theme Colors"
+msgstr "رنگ های تم"
+
+#: inc/admin/freddo-admin-page.php:166
+msgid "Theme Customizer"
+msgstr "سفارشی ساز تم"
+
+#: inc/customizer.php:3074 inc/pro-button/class-customize.php:81
+msgid "Theme Documentation"
+msgstr "مستندات موضوع"
+
+#: inc/admin/freddo-admin-page.php:111
+msgid "Theme Info"
+msgstr "اطلاعات تم"
+
+#: inc/admin/freddo-admin-page.php:545
+msgid "Theme Options made with the WP Customizer"
+msgstr "گزینه های تم ساخته شده با WP Customizer"
+
+#: inc/admin/freddo-admin-page.php:514
+msgid "This will be the result (the colors change according to the ones chosen)."
+msgstr "این نتیجه خواهد بود (رنگ ها با توجه به رنگ های انتخاب شده تغییر می کنند)."
+
+#: inc/customizer.php:1158 inc/customizer.php:1364 inc/customizer.php:1623
+#: inc/customizer.php:1986 inc/customizer.php:2324 inc/customizer.php:2493
+#: inc/customizer.php:2684
+msgid "Title"
+msgstr "عنوان"
+
+#: inc/customizer.php:1208
+msgid "Title, content and featured image will be used in the box"
+msgstr "عنوان، محتوا و تصویر ویژه در جعبه استفاده خواهد شد"
+
+#: inc/customizer.php:1486 inc/customizer.php:2087
+msgid "Title and content (unformatted) will be used in the box"
+msgstr "عنوان و محتوا (بدون فرمت) در جعبه استفاده خواهد شد"
+
+#: inc/admin/freddo-admin-page.php:183 inc/admin/freddo-admin-page.php:191
+msgid "Translate"
+msgstr "ترجمه کردن"
+
+#: 404.php:32
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "سعی کنید در آرشیو های ماهیانه نگاه کنید.%1$s"
+
+#: inc/customizer.php:3451
+msgid "Tumblr"
+msgstr "وبلاگ Tumblr"
+
+#: inc/customizer.php:584
+msgid "Tumblr URL"
+msgstr "URL Tumblr"
+
+#: inc/customizer.php:3475
+msgid "Twitch"
+msgstr "تکان دادن"
+
+#: inc/customizer.php:624
+msgid "Twitch URL"
+msgstr "نشانی وب را تکان دهید"
+
+#: inc/customizer.php:3433
+msgid "Twitter"
+msgstr "توییتر"
+
+#: inc/customizer.php:554
+msgid "Twitter URL"
+msgstr "آدرس توییتر"
+
+#: inc/admin/freddo-admin-page.php:560
+msgid "Unlimited Text and Background Color"
+msgstr "متن و رنگ پس زمینه نامحدود"
+
+#: inc/admin/freddo-admin-page.php:177 inc/admin/freddo-admin-page.php:534
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "برای ویژگی های هیجان انگیزتر به نسخه PRO ارتقا دهید."
+
+#: inc/customizer.php:2215
+msgid "Upload Image"
+msgstr "آپلود تصویر"
+
+#: inc/customizer.php:1052
+msgid "Upload up to three sliders. Recommended image size: 1920X1080"
+msgstr "حداکثر سه اسلایدر را آپلود کنید. اندازه تصویر پیشنهادی: 1920x1080"
+
+#: inc/customizer.php:3457
+msgid "VK"
+msgstr "VK"
+
+#: inc/customizer.php:594
+msgid "VK URL"
+msgstr "URL VK"
+
+#: inc/admin/freddo-admin-page.php:113
+msgid "View Demo"
+msgstr "نمایش نسخه ی نمایشی"
+
+#: inc/admin/freddo-admin-page.php:115
+msgid "View PRO version Demo"
+msgstr "نسخه نمایشی PRO را مشاهده کنید"
+
+#: inc/admin/freddo-admin-page.php:678
+msgid "View PRO version demo"
+msgstr "نسخه نمایشی PRO را مشاهده کنید"
+
+#: inc/admin/freddo-admin-page.php:217
+msgid "View changelog below:"
+msgstr "مشاهده تغییرات در زیر:"
+
+#: inc/customizer.php:3466
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/customizer.php:609
+msgid "Vimeo URL"
+msgstr "URL Vimeo"
+
+#: inc/admin/freddo-admin-page.php:575
+msgid "WPML Multilingual ready"
+msgstr "WPML چند زبانه آماده است"
+
+#: inc/customizer.php:3080
+msgid "Watch the PRO Version demo"
+msgstr "نسخه نمایشی PRO نسخه را تماشا کنید"
+
+#: inc/customizer.php:3077
+msgid "Watch the demo"
+msgstr "دمو را تماشا کنید"
+
+#: inc/admin/freddo-admin-page.php:362
+msgid "Watch the video to set the \"About Us\" section, or read the step-by-step instructions below."
+msgstr "برای تنظیم بخش &quot;درباره ما&quot; ویدیو را تماشا کنید یا دستورالعمل های گام به گام زیر را بخوانید."
+
+#: inc/admin/freddo-admin-page.php:296
+msgid "Watch the video to set the onepage template on the home page, or read the step-by-step instructions below."
+msgstr "ویدیو را تماشا کنید تا قالب onepage را در صفحه اصلی تنظیم کنید، یا دستورالعمل های گام به گام زیر را بخوانید."
+
+#: inc/admin/freddo-admin-page.php:279
+#: inc/demo-import/demo-import-settings.php:11
+msgid "We recommend importing the demo content to new websites without content. This is to avoid filling the website with new pages and posts that could create confusion with existing content. After you import the demo, the main menu, widgets, and some parts of the theme (like the site logo) must be set manually."
+msgstr "توصیه می کنیم محتوای آزمایشی را به وب سایت های جدید بدون محتوا وارد کنید. این کار برای جلوگیری از پر شدن وب سایت با صفحات و پست های جدید است که می تواند با محتوای موجود سردرگمی ایجاد کند. پس از وارد کردن نسخه ی نمایشی، منوی اصلی، ابزارک ها و برخی از قسمت های موضوع (مانند لوگوی سایت) باید به صورت دستی تنظیم شوند."
+
+#: comments.php:76
+msgid "Website"
+msgstr "سایت اینترنتی"
+
+#: inc/admin/freddo-admin-page.php:85
+#, php-format
+msgid "Welcome! Thank you for choosing Freddo theme! To fully take advantage of the best our theme can offer and read the documentation please make sure you visit our %1$swelcome page%2$s."
+msgstr "خوش آمدی! از انتخاب تم Freddo متشکریم! برای استفاده کامل از بهترین موضوع ما و خواندن مستندات، لطفاً مطمئن شوید که از ما دیدن کنید%1$s صفحه خوش آمد گویی%2$s ."
+
+#: inc/customizer.php:1632 sections/section-skills.php:6
+msgid "What We Do"
+msgstr "کاری که ما انجام می دهیم"
+
+#: inc/customizer.php:1995 sections/section-services.php:6
+msgid "What We Offer"
+msgstr "آنچه ما ارائه می دهیم"
+
+#: inc/customizer.php:3481
+msgid "WhatsApp"
+msgstr "واتس اپ"
+
+#: inc/customizer.php:634
+msgid "WhatsApp URL"
+msgstr "URL واتس اپ"
+
+#: inc/customizer.php:1167 sections/section-aboutus.php:6
+msgid "Who We Are"
+msgstr "ما کی هستیم"
+
+#: inc/admin/freddo-admin-page.php:570
+msgid "WooCommerce Compatibility"
+msgstr "سازگاری ووکامرس"
+
+#: footer.php:58
+#, php-format
+msgid "WordPress Theme: %1$s by %2$s."
+msgstr "قالب وردپرس:%1$s توسط%2$s ."
+
+#: functions.php:79
+msgid "XL"
+msgstr "XL"
+
+#: inc/customizer.php:3460
+msgid "Xing"
+msgstr "زینگ"
+
+#: inc/customizer.php:599
+msgid "Xing URL"
+msgstr "آدرس اینترنتی زینگ"
+
+#: inc/admin/freddo-admin-page.php:489
+msgid "Yes, the theme is compatible with Elementor Page Builder, SiteOrigin and Beaver Builder plugins. Just create or edit the page you want to use the page builder and choose the template called \"Full Width for page builders\". This template allows page builders to have maximum page customization (only the menu and the footer will be visible)."
+msgstr "بله، تم با پلاگین های Elementor Page Builder، SiteOrigin و Beaver Builder سازگار است. فقط صفحه ای را که می خواهید از صفحه ساز استفاده کنید ایجاد یا ویرایش کنید و قالبی به نام &quot;عرض کامل برای سازندگان صفحه&quot; را انتخاب کنید. این الگو به سازندگان صفحه اجازه می دهد تا حداکثر سفارشی سازی صفحه را داشته باشند (فقط منو و پاورقی قابل مشاهده خواهد بود)."
+
+#: inc/customizer.php:3445
+msgid "YouTube"
+msgstr "یوتیوب"
+
+#: inc/customizer.php:574
+msgid "YouTube URL"
+msgstr "آدرس یوتیوب"
+
+#: comments.php:83
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "شما باید<a href=\"%s\"> وارد شده</a> برای ارسال نظر."
+
+#: comments.php:86
+msgid "Your email address will not be published."
+msgstr "آدرس ایمیل شما منتشر نخواهد شد."
+
+#: inc/customizer.php:369 inc/customizer.php:909
+msgid "Zoom Effect"
+msgstr "جلوه زوم"
+
+msgid "https://crestaproject.com"
+msgstr "https://crestaproject.com"
+
+msgid "https://crestaproject.com/downloads/freddo/"
+msgstr "https://crestaproject.com/downloads/freddo/"
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$sفکر در مورد &quot;%2$s ”"
+msgstr[1] "%1$sافکار در مورد &quot;%2$s ”"

@@ -1,0 +1,34 @@
+/*
+Theme Name: Freddo Child
+Theme URI: https://crestaproject.com/downloads/freddo/
+Template: freddo
+Author: Rizzo Andrea - CrestaProject
+Author URI: https://crestaproject.com
+Description: Freddo is a fresh and minimal multipurpose WordPress Theme with all the feature that you need to make a complete website in one page. In the home page you can use many sections including Slider, About Us, Team Section, Skills, Contact section and much more, all this in a few seconds by using one click demo importer plugin. Moreover, Freddo Theme has a beautiful appearance for blogging with featured image in the header. Freddo Theme is fully compatible with WooCommerce that allows you to create your personal E-Commerce, with WPML (multilingual ready), with Gutenberg and with the most common page builders (Elementor, SiteOrigin, Beaver Builder). Unlimited colors, 2 sidebar, footer widget, custom logo and many other options. Demo here: https://crestaproject.com/demo/freddo/
+Tags: two-columns,right-sidebar,custom-colors,custom-menu,featured-images,rtl-language-support,sticky-post,theme-options,threaded-comments,translation-ready,blog,news,e-commerce,footer-widgets,custom-logo
+Version: 1.7.4.1718544016
+Updated: 2024-06-16 16:50:16
+
+*/
+
+@font-face {
+	font-family: 'Sahel';
+	src: url('fonts/Sahel.eot?-wwn5ej');
+	src: url('fonts/Sahel.eot?#iefix-wwn5ej') format('embedded-opentype'),
+	url('fonts/Sahel.woff?-wwn5ej') format('woff'),
+	url('fonts/Sahel.ttf?-wwn5ej') format('truetype'),
+	url('fonts/Sahel.svg?-wwn5ej#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+body, h1,h2,h3,h4,h5,h6,p,strong,button,.main-navigation{
+	font-family: Sahel !important
+}
+.one.aboutus_columns_three, .services_columns_single .serviceContent, .freddoContactField , .freddoCompanyAddress1, .freddoCompanyAddress2, .freddoCompanyAddress3, .freddoCompanyEmail, .freddoCompanyFax, .freddoCompanyPhone{
+    text-align: right !important;
+}
+.freddoCompanyAddress1Icon, .freddoCompanyEmailIcon, .freddoCompanyFaxIcon, .freddoCompanyPhoneIcon {
+    right: -40px;
+	left:auto
+}
